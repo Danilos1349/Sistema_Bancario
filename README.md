@@ -18,6 +18,10 @@ Este é um projeto simples feito em Python que simula um sistema bancário com t
 python banco.py
 ```
 
+## Licença
+
+Este projeto é livre para fins educacionais e pessoais.
+
 ## 👨‍💻 Desenvolvido por
 
 Danilo 🧠  
